@@ -1,0 +1,6 @@
+panic: listen tcp :18121: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+goroutine 1 [running]:
+main.main()
+	C:/Users/AdminWC/Dift App project/Project-Production-Ready/dift_backend_driver/driver-rewards-service/cmd/main.go:27 +0x490
+exit status 2
